@@ -18,14 +18,7 @@ Data preprocessing is the processes of cleaning, transforming, and integrating o
 From our Dataset of Churn it contained no missing values there by making our models fit correctly. There was also no issues of underfitting or overfittig since our standardization and feature engineering was well taken care of.
 
 #### Encoding categorical variables
-There are many ways to encode categorical variables for modeling, although the three most common are as follows:
-- Integer Encoding: Where each unique label is mapped to an integer.
-- One Hot Encoding: Where each label or feature is mapped to a binary vector.
-- Learned Embedding: Where a distributed representation of the categories is learned.
-In this churn Customer prediction, we have features belonging to categical variables such as SeniorCitizen, TotalCharges, Churn, and Gender have been encoded since they conatain YES or NO values. One hot En 
-
-
-
+categorical data represents discrete values or categories, such as gender, country, or product type. Machine learning algorithms, however, require numerical input, making it essential to convert categorical data into a numerical format. This process is known as encoding for example in our dataset, Gender, Churn Column were encoded using OneHot Encoding.
 
 ## 3. Exploratory Data Analysis
 
@@ -46,8 +39,7 @@ In this churn Customer prediction, we have features belonging to categical varia
 
 
 ## 6. . Retention Strategy Development.
-Customer retention is the process of keeping customers engaged with your product and brand, while customer churn is the process of losing customers. A customer retention strategy helps you keep your customers around longer, which helps you avoid having to go out and find new ones.
-
+A customer retention strategy helps you keep your customers around longer, which helps you avoid having to go out and find new ones.
  - Get to the root of the Churn.
  - Customer Segmentation.
  - Monitor User Engagement.
@@ -55,6 +47,7 @@ Customer retention is the process of keeping customers engaged with your product
  - Offer personalized and proactive customer communication.
  - Reward customer loyalty .
  - Follow up with customers.
+ - Develop a data roadmap and stick to it.
 
 
 
