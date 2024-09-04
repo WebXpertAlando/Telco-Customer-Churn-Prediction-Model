@@ -5,7 +5,7 @@ Customer churn is the percentage of customers that stopped using your company's 
 ### About Dataset
 Telco customer churn contains information about a fictitious telecom company providing home phone and Internet services to 7043 customers in California in the third quarter. It includes which customers left, stayed or signed up for service.
 
-##1. Data Collection:
+##  1. Data Collection:
 Access the Telco customer churn dataset from Kaggle, which includes information on demographics, transaction history, customer service interactions, subscription details, and whether the customer churned.
 
 
