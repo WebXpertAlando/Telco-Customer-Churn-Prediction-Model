@@ -20,7 +20,7 @@ From our Dataset of Churn it contained no missing values there by making our mod
 #### Encoding categorical variables
 categorical data represents discrete values or categories, such as gender, country, or product type. Machine learning algorithms, however, require numerical input, making it essential to convert categorical data into a numerical format. This process is known as encoding for example in our dataset, Gender, Churn Column were encoded using OneHot Encoding.
 
-## 3. Exploratory Data Analysis
+## 3. Exploratory Data Analysis ( EDA )
 #### Analysis on Categorical Variables
 - In the above findings, It can be seen that Males were the most involved in Churn than females.
 - Then on SeniorCitizen, most customers were not Senior Citizens.
