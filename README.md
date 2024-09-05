@@ -21,9 +21,14 @@ From our Dataset of Churn it contained no missing values there by making our mod
 categorical data represents discrete values or categories, such as gender, country, or product type. Machine learning algorithms, however, require numerical input, making it essential to convert categorical data into a numerical format. This process is known as encoding for example in our dataset, Gender, Churn Column were encoded using OneHot Encoding.
 
 ## 3. Exploratory Data Analysis
-
-
-
+#### Analysis on Categorical Variables
+- In the above findings, It can be seen that Males were the most involved in Churn than females.
+- Then on SeniorCitizen, most customers were not Senior Citizens.
+- Most clients Did not have partners. (Yes, No) ? Married or not. Living together, being roommates
+- Most of the clients had no dependents e.g (Child, mother, father, grandmothe).
+- Most Clients had phone services. This enables the Telco
+- Most customers had no Multiples line meaning that most customers could be reached when only a single phone line is in use.
+- 
 
 ## 4.  Model Development
 
