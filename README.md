@@ -25,7 +25,7 @@ categorical data represents discrete values or categories, such as gender, count
 
 
 
-4## 4.  Model Development
+## 4.  Model Development
 
 
 
