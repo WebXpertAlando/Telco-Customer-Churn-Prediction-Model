@@ -1,5 +1,5 @@
-# Capstone_Project_2024
-## Data Engineering: Option 2:Telco Customer Churn Prediction and Retention Strategy 
+# Telco Customer Churn Prediction Model
+## Telco Customer Churn Prediction and Retention Strategy 
 ### Introduction
 Customer churn is the percentage of customers that stopped using your company's product or service during a certain time frame. It’s easier to keep an existing customer than to gain a new one, and it’s much simpler to save a departing customer than to tempt them back later. Customer churn is measured using customer churn rate. That’s the number of people who stopped being customers during a set period of time, such as a year, a month, or a financial quarter.
 ### About Dataset
